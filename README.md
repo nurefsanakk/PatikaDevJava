@@ -1,2 +1,2 @@
 # PatikaDev
-Enstitü İstanbul İSMEK Back-End Developer Eğitim Programı için yaptığım patika ödevlerinin tamamı
+Enstitü İstanbul İSMEK Back-End Developer Eğitim Programı patika-dev alıştırmaları
